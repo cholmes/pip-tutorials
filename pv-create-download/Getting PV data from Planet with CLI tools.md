@@ -25,7 +25,7 @@ Next you’ll need to upload your AOI and reserve your quota so you can place a 
 ![](Getting%20PV%20data%20from%20Planet%20with%20CLI%20tools/features-manager.gif)
 
 ## Creating the Subscription
-Now that you’ve reserved the quota you’re ready to create the subscription. For this you need to get a refernce to the geometry you created. Just click on the 3 vertical dots by the feature, and then select ‘copy reference’. 
+Now that you’ve reserved the quota you’re ready to create the subscription. For this you need to get a reference to the geometry you created. Just click on the 3 vertical dots by the feature, and then select ‘copy reference’. 
 ![](Getting%20PV%20data%20from%20Planet%20with%20CLI%20tools/Screenshot%202025-03-13%20at%204.08.34%20PM.png)
 Then you can paste it, it should look something like `pl:features/my/alberta-aoi-wr3oRyr/1-ober8nm`.
 
