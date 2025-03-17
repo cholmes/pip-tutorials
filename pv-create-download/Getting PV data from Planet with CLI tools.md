@@ -85,6 +85,8 @@ You install it similarly to the planet cli:
 
 You can check if it’s working by typing `shdown —help` and it should look something like:![](Getting%20PV%20data%20from%20Planet%20with%20CLI%20tools/Screenshot%202025-03-13%20at%204.45.52%20PM.png)
 
+#### Getting client id & secret
+
 Next you need to configure it. You need a Sentinel Hub Client ID and Client Secret. Go to https://apps.sentinel-hub.com/dashboard/#/account/settings and hit '+ Create' under OAuth Clients. Be sure to store these, you won't see 'secret' again. And then you put those into the prompt. And you can get the instance id from [The Configurations page](https://insights.planet.com/analyze/configurations/#/) - it’s just the ‘configuration id’.
 
 ![](Getting%20PV%20data%20from%20Planet%20with%20CLI%20tools/shdown-config.gif)
