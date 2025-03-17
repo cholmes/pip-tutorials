@@ -17,7 +17,8 @@ Just type that on the console, and it should prompt you for your email and passw
 
 The following shows roughly how it should look (though I already have the library set up, so it raised some errors)
 
-![](Getting%20PV%20data%20from%20Planet%20with%20CLI%20tools/cli-setup.gif)
+![planet-cli-install](https://github.com/user-attachments/assets/c8b49d6b-672e-4ca1-8cf6-0b29c16cc135)
+
 ## Uploading AOI and Reserving Quota
 Next you’ll need to upload your AOI and reserve your quota so you can place a subscription. For now we’ll just focus on creating a single AOI, making a subscription on that and downloading the results. But in a next tutorial we can show uploading a file with many geometries. You can find the interface at https://planet.com/features The process looks like this:
 
